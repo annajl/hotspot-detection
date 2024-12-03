@@ -1,7 +1,7 @@
 # hotspot-detection
 Here we provide the code for the methodology of our paper "A novel method for subgroup discovery in precision medicine based on topological data analysis" (Loughrey, C.F., Maguire, S., Dlotko, P., Bai, L., Orr, N., Jurek-Loughrey, A.). The code was implemented by the first author: C. Loughrey.
 
-his repository contains hot-mapper, the general implementation of hotspot detection on the TDA tool Mapper for applications in bioinformatics. Mapper builds network graphs from a dataset through a combination of clustering and dimensionality reduction. Hotspot detection identifies anomalous interconnected groups of nodes in the graph. In biomedical terms, these hotspots can represent unusual patients subtypes.
+This repository contains hot-mapper, the general implementation of hotspot detection on the TDA tool Mapper for applications in bioinformatics. Mapper builds network graphs from a dataset through a combination of clustering and dimensionality reduction. Hotspot detection identifies anomalous interconnected groups of nodes in the graph. In biomedical terms, these hotspots can represent unusual patients subtypes.
 
 
 # Data
@@ -167,4 +167,4 @@ Output
 - mapper_graphs/tcga_mapper_centroid_labelled.png
 - mapper_graphs/tcga_mapper_closest_centroid_unlabelled.png
 - processed_data/tcga_hotspot_id_survival.csv
-![image](https://github.com/user-attachments/assets/aae545eb-798e-418f-813d-5d2025db7105)
+
