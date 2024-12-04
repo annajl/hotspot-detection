@@ -6,8 +6,11 @@ This repository contains hot-mapper, the general implementation of hotspot detec
 
 # Data
 The datasets used are found at the following links:
+
 •	METABRIC: raw gene expression data in IDAT format. European Genome-Phenome Archive, Dataset ID EGAD00010000162 (https://ega-archive.org/datasets/)
+
 •	TCGA: raw fastq files. National Cancer Institute Genomic Data Commons Data Portal legacy archive, TCGA project access number 16762 (https://portal.gdc.cancer.gov/legacy-archive/search/f)
+
 •	GTEX: raw gene read counts. Genotype-Tissue Expression Project, 'GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz' (https://gtexportal.org/home/datasets)
 
 # Code
